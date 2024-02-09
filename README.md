@@ -4,7 +4,8 @@ A simple ToDo application built with Vue.js and Axios.
 The tasks are securely stored and persistently managed using JSON Server as the backend. 
 JSON Server ensures reliable data storage and retrieval, providing a scalable and efficient solution for task management.
 
-A simple demonstration of the Application is shown here. Checkout the gdrive link  : https://drive.google.com/file/d/1X1serXiq-YVX7ZKQmvb99z_OXFzPWUzP/view?usp=drive_link
+A simple demonstration of the Application is shown here. 
+Checkout the gdrive link  : https://drive.google.com/file/d/1X1serXiq-YVX7ZKQmvb99z_OXFzPWUzP/view?usp=drive_link
 
 
 ## Overview
